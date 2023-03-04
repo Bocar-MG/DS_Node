@@ -1,0 +1,37 @@
+[
+    {
+        "nom": "john doe",
+        "classe" : "GLSI",
+        "modules" : [
+                {
+                    "module" : "Spring",
+                    "note" : 14
+                },
+                {
+                    "module" : "Angular",
+                    "note" : 18
+                },
+                {
+                    "module" : "Agile",
+                    "note" : 14
+                }
+            ],
+        "moyenne" : 14
+    },
+    {
+        
+        "nom": "jane doe",
+        "classe" : "GLSI",
+        "modules" : [
+                {
+                    "module" : "Agile",
+                    "note" : 12
+                },
+                {
+                    "module" : ".Net",
+                    "note" : 10
+                }
+            ],
+        "moyenne" : 11
+    }
+]
